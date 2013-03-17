@@ -1,4 +1,4 @@
-HampsterFreedom
+Hamster Freedom
 ===============
 
 Source code for the music for Hampster Freedom.
